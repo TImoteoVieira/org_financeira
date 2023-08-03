@@ -3,3 +3,4 @@ venv
 __pycache__
 media/icones/*.jpeg
 media/icones/*.png
+db.sqlite3

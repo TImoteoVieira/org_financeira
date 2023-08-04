@@ -51,4 +51,4 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para enviar pu
 
 ## Licença
 
-Este projeto é licenciado sob a licença [MIT](LICENSE).
+Este projeto é licenciado sob a licença [MIT](./LICENSE).
